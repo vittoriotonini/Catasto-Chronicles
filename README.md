@@ -1,4 +1,4 @@
-# Sito Catasto Chronicles in costruzione 🚧
+# Sito in costruzione 🚧
 
 Ciao e benvenuto! 👋
 
@@ -12,3 +12,18 @@ Per qualsiasi domanda o informazione, puoi contattarmi qui:
 - **Email**: vittoriotonini@hotmail.it
 
 A presto! 🚀
+
+
+Site Under Construction 🚧
+
+Hello and welcome! 👋
+
+The first version of the site is currently under development and will be ready by December 6th.
+I apologize for the inconvenience and thank you for your support!
+Contact
+
+For any questions or information, you can reach me here:
+
+    Email: vittoriotonini@hotmail.it
+
+See you soon! 🚀
